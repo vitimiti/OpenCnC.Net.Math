@@ -7,6 +7,20 @@
         <RootNamespace>OpenCnC.Net.Math</RootNamespace>
         <DefineTrace>true</DefineTrace>
     </PropertyGroup>
+    
+    <PropertyGroup>
+        <Version>0.0.1</Version>
+        <Title>OpenCnC.Net.Math</Title>
+        <Authors>OpenCnC.Net Team &lt;vmatir@outlook.com&gt;</Authors>
+        <Description>A math library for the OpenCnC.Net project</Description>
+        <Copyright>2025 (c) OpenCnC.Net Team &lt;vmatir@outlook.com&gt;</Copyright>
+        <PackageProjectUrl>https://github.com/OpenCnC-Net</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/OpenCnC-Net/Math/blob/main/LICENSE.md</PackageLicenseUrl>
+        <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/OpenCnC-Net/Math</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    </PropertyGroup>
 
     <Choose>
         <When Condition="'$(Configuration)' == 'Debug'">
