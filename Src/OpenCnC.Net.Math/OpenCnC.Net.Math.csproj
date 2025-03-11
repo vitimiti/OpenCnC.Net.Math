@@ -9,7 +9,7 @@
     </PropertyGroup>
     
     <PropertyGroup>
-        <Version>0.0.1</Version>
+        <Version>0.1.0</Version>
         <Title>OpenCnC.Net.Math</Title>
         <Authors>OpenCnC.Net Team &lt;vmatir@outlook.com&gt;</Authors>
         <Description>A math library for the OpenCnC.Net project</Description>
@@ -19,6 +19,7 @@
         <RepositoryUrl>https://github.com/OpenCnC-Net/Math</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <Choose>
