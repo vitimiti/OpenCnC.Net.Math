@@ -36,7 +36,7 @@
                 <DefineDebug>false</DefineDebug>
                 <DebugSymbols>false</DebugSymbols>
                 <DebugType>portable</DebugType>
-                <Optimize>none</Optimize>
+                <Optimize>true</Optimize>
             </PropertyGroup>
         </When>
     </Choose>
