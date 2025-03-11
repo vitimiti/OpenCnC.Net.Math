@@ -1,4 +1,4 @@
-namespace OpenCnC.Net.Math;
+namespace OpenCnC.Net.Math.Angles;
 
 public class Radians(float value)
 {
